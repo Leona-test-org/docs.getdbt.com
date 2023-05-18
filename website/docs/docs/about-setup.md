@@ -13,7 +13,7 @@ dbt compiles and runs your analytics code against your data platform, enabling y
 
 If you're not sure which is the right solution for you, read our [What is dbt?](/docs/introduction) and our [dbt Cloud features](/docs/cloud/about-cloud/dbt-cloud-features) articles to help you decide. If you still have questions, don't hesitate to [contact us](https://www.getdbt.com/contact/).
 
-To begin configuring dbt now, select the option that is right for you.
+To begin configuring dbt now, select the option that is right for you:
 
 <div className="grid--2-col">
 
